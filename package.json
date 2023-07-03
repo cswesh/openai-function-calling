@@ -1,0 +1,16 @@
+{
+  "name": "openai-function-calling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ai-function-chain": "^0.0.23",
+    "dotenv": "^16.3.1"
+  }
+}
